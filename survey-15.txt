@@ -1,7 +1,7 @@
 null/ YYYY-MM-DD (start date)
-8/ start time of day in 2-digit hour format (HH) 0 - 23
+0800/ start time of day in 2-digit hour format (HH) 0 - 23
 7/ days (length of survey)
-10/ occurances per day (windows)
+2/ occurances per day (windows)
 1641939024/created date
 10/ hours survey length in hours per da
 r/ survey type: follow-up, coninues, random, once
