@@ -1,6 +1,6 @@
 null/ YYYY-MM-DD (start date)
 0800/ start time of day in 2-digit hour format (HH) 0 - 23
-15/ days (length of survey)
+8/ days (length of survey)
 0/ occurances per day (windows)
 1648136423/created date
 10/ hours survey length in hours per da
