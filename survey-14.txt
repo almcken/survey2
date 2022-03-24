@@ -5,8 +5,8 @@ null/ YYYY-MM-DD (start date)
 1641939024/created date
 10/ hours survey length in hours per da
 c/ survey type: follow-up, continous, random, once
-S14Q1:Are lizards small?/TYPE:1/YES:END/NO:END/
-S14Q2:Are apples red fruit?/TYPE:1/YES:END/NO:END/
-S14Q3:Are muscles needed to move our body?/TYPE:1/YES:END/NO:END/
-S14Q4:Are scoops of ice cream sweet?/TYPE:1/YES:END/NO:END/
-S14Q5:Are bananas and oranges sweet vegetables?/TYPE:1/YES:END/NO:END/
+S14Q1:Do you like ice cream?/TYPE:1/YES:END/NO:END/
+S14Q2:Do you like pizza?/TYPE:1/YES:END/NO:END/
+S14Q3:Do you enjoy sports?/TYPE:1/YES:END/NO:END/
+S14Q4:Do you particpate in voting?/TYPE:1/YES:END/NO:END/
+S14Q5:Do you know how to dance?/TYPE:1/YES:END/NO:END/
