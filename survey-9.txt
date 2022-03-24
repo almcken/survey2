@@ -1,0 +1,9 @@
+null/ YYYY-MM-DD (start date)
+0800/ start time of day in 2-digit hour format (HH) 0 - 23
+2/ days (length of survey)
+10/ occurances per day (windows)
+1648136423/created date
+10/ hours survey length in hours per day
+f/ survey type: follow-up, continous, random, once
+S9Q1:I have a headache./TYPE:1/YES:S9Q2/NO:END/
+S9Q2: On a scale of 1-9; how bad is your headache?/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/

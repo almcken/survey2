@@ -1,0 +1,10 @@
+null/ YYYY-MM-DD (start date)
+0800/ start time of day in 2-digit hour format (HH) 0 - 23
+8/ days (length of survey)
+3/ occurances per day (windows)
+1648136423/created date
+10/ hours survey length in hours per day
+f/ survey type: follow-up, continous, random, once
+S12Q1:C is using the Stop strategy/TYPE:1/YES:S12Q2/NO:S12Q2/
+S12Q2:C is recalling information he was provided/TYPE:1/YES:S12Q3/NO:S12Q3/
+S12Q3:C identifies errors or poor decisions when he makes them/TYPE:1/YES:END/NO:END/

@@ -1,0 +1,8 @@
+null/ YYYY-MM-DD (start date)
+0800/ start time of day in 2-digit hour format (HH) 0 - 23
+8/ days (length of survey)
+3/ occurances per day (windows)
+1648136423/created date
+10/ hours survey length in hours per day
+f/ survey type: follow-up, continous, random, once
+S11Q1:Rate your current mood from 1 to 9 (1 = negative and 9 = positive)/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/
