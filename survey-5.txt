@@ -5,6 +5,5 @@ null/ YYYY-MM-DD (start date)
 1648136423/created date
 10/ hours survey length in hours per day
 f/ survey type: follow-up, continous, random, once
-S4Q1:I have a headache./TYPE:1/YES:S4Q2/NO:END/
-S4Q2:How intense was the headache?/TYPE:1/Mild:S4Q3/Moderate:S4Q3/Severe:S4Q3/
-S4Q3:Headache is interfering with my activities?/TYPE:1/YES:END/NO:END/
+S5Q1:My mood is? 1(negative) to 9 (positive)/TYPE:0/ 1:S5Q2/ 2:S5Q2/ 3:S5Q2/ 4:S5Q2/ 5:S5Q2/ 6:S5Q2/ 7:S5Q2/ 8:S5Q2/ 9:S5Q2/
+S5Q2:My arousal level is? 1(low) to 9 (high)/TYPE:0/ 1:END/ 2:END/ 3:END/ 4:END/ 5:END/ 6:END/ 7:END/ 8:END/ 9:END/
