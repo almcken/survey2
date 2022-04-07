@@ -2,161 +2,126 @@ null/ YYYY-MM-DD (start date)
 0800/ start time of day in 2-digit hour format (HH) 0 - 23
 7/ days (length of survey)
 2/ occurances per day (windows)
-1641939024/created date
-10/ hours survey length in hours per da
+1649355221/created date
+10/ hours survey length in hours per day
 r/ survey type: follow-up, coninues, random, once
-S15Q1:Are lizards small?/TYPE:1/YES:END/NO:END/
-S15Q2:Are apples red fruit?/TYPE:1/YES:END/NO:END/
-S15Q3:Are muscles needed to move our body?/TYPE:1/YES:END/NO:END/
-S15Q4:Are scoops of ice cream sweet?/TYPE:1/YES:END/NO:END/
-S15Q5:Are bananas and oranges sweet vegetables?/TYPE:1/YES:END/NO:END/
-S15Q6:Are dogs and cats animals that live in the jungle?/TYPE:1/YES:END/NO:END/
-S15Q7:Are roses tall trees?/TYPE:1/YES:END/NO:END/
-S15Q8:Are wild animals dangerous?/TYPE:1/YES:END/NO:END/
-S15Q9:Are coffee and hot chocolate cold drinks?/TYPE:1/YES:END/NO:END/
-S15Q10:Are shovels something you would use to dig a hole with?/TYPE:1/YES:END/NO:END/
-S15Q11:Are computers used to brush your teeth with?/TYPE:1/YES:END/NO:END/
-S15Q12:Are fruits and vegetables healthy to eat?/TYPE:1/YES:END/NO:END/
-S15Q13:Are musicians and artists creative?/TYPE:1/YES:END/NO:END/
-S15Q14:Are pencils and markers used to write on a whiteboard?/TYPE:1/YES:END/NO:END/
-S15Q15:Are Spanish and German different languages?/TYPE:1/YES:END/NO:END/
-S15Q16:Are cars used to drive on the water?/TYPE:1/YES:END/NO:END/
-S15Q17:Are rattlesnakes poisonous?/TYPE:1/YES:END/NO:END/
-S15Q18:Are band-aids used for healing?/TYPE:1/YES:END/NO:END/
-S15Q19:Are umbrellas used to keep you wet?/TYPE:1/YES:END/NO:END/
-S15Q20:Are the letters "d" and "s" in the word "dressing"?/TYPE:1/YES:END/NO:END/
-S15Q21:Are flies and robins small insects?/TYPE:1/YES:END/NO:END/
-S15Q22:Are clocks and bikes used to tell time?/TYPE:1/YES:END/NO:END/
-S15Q23:Are violins and pianos musical instruments?/TYPE:1/YES:END/NO:END/
-S15Q24:Are paint and syrup used to take a bath in?/TYPE:1/YES:END/NO:END/
-S15Q25:Are aspirin and tylenol pain relievers?/TYPE:1/YES:END/NO:END/
-S15Q26:Are airplanes flown inside?/TYPE:1/YES:END/NO:END/
-S15Q27:Are pillows and mattresses used to sleep on?/TYPE:1/YES:END/NO:END/
-S15Q28:Are shoes worn over the top of socks?/TYPE:1/YES:END/NO:END/
-S15Q29:Are football and baseball types of food?/TYPE:1/YES:END/NO:END/
-S15Q30:Are chips and pretzels salty?/TYPE:1/YES:END/NO:END/
-S15Q31:Are houses more than $50 dollars?/TYPE:1/YES:END/NO:END/
-S15Q32:Are lasagna and spaghetti Chinese dishes?/TYPE:1/YES:END/NO:END/
-S15Q33:Are peanuts made into jam?/TYPE:1/YES:END/NO:END/
-S15Q34:Are ovens used to freeze things?/TYPE:1/YES:END/NO:END/
-S15Q35:Are there 80 minutes in an hour?/TYPE:1/YES:END/NO:END/
-S15Q36:Can pigs walk on two feet?/TYPE:1/YES:END/NO:END/
-S15Q37:Can you touch your elbow with your nose?/TYPE:1/YES:END/NO:END/
-S15Q38:Can you fry vegetables in a pan?/TYPE:1/YES:END/NO:END/
-S15Q39:Can you brush your teeth with a shoe?/TYPE:1/YES:END/NO:END/
-S15Q40:Can you stretch a rock?/TYPE:1/YES:END/NO:END/
-S15Q41:Can you grow a mustache on your foot?/TYPE:1/YES:END/NO:END/
-S15Q42:Can you sleep in the day time?/TYPE:1/YES:END/NO:END/
-S15Q43:Can you ride a bike without a helmet?/TYPE:1/YES:END/NO:END/
-S15Q44:Can you drive a car wearing a blindfold?/TYPE:1/YES:END/NO:END/
-S15Q45:Can a backpack get a cold?/TYPE:1/YES:END/NO:END/
-S15Q46:Can you stir something with a spoon?/TYPE:1/YES:END/NO:END/
-S15Q47:Can you wear pajama's to school / work?/TYPE:1/YES:END/NO:END/
-S15Q48:Can you jump over a puddle?/TYPE:1/YES:END/NO:END/
-S15Q49:Can you eat tomato soup with a fork?/TYPE:1/YES:END/NO:END/
-S15Q50:Can you keep a horse inside your house?/TYPE:1/YES:END/NO:END/
-S15Q51:Can you see in the dark without a flashlight?/TYPE:1/YES:END/NO:END/
-S15Q52:Can you buy eggs by the dozen?/TYPE:1/YES:END/NO:END/
-S15Q53:Can you teach a cat to talk?/TYPE:1/YES:END/NO:END/
-S15Q54:Can a tiger be your pet?/TYPE:1/YES:END/NO:END/
-S15Q55:Can you rake leaves with a hammer?/TYPE:1/YES:END/NO:END/
-S15Q56:Can you ride a camel?/TYPE:1/YES:END/NO:END/
-S15Q57:Can you use a shovel at the beach?/TYPE:1/YES:END/NO:END/
-S15Q58:Can you eat without a mouth?/TYPE:1/YES:END/NO:END/
-S15Q59:Can a circle have corners?/TYPE:1/YES:END/NO:END/
-S15Q60:Can a fish live out of water?/TYPE:1/YES:END/NO:END/
-S15Q61:Can you rip concrete?/TYPE:1/YES:END/NO:END/
-S15Q62:Can you wear a tie?/TYPE:1/YES:END/NO:END/
-S15Q63:Can you drive a car without wearing a seatbelt?/TYPE:1/YES:END/NO:END/
-S15Q64:Can you make bread without using flour?/TYPE:1/YES:END/NO:END/
-S15Q65:Can you freeze orange juice?/TYPE:1/YES:END/NO:END/
-S15Q66:Do new clothes get dirty?/TYPE:1/YES:END/NO:END/
-S15Q67:Do babies need their diapers changed?/TYPE:1/YES:END/NO:END/
-S15Q68:Do you get wet when you go swimming?/TYPE:1/YES:END/NO:END/
-S15Q69:Does the sun make things hot?/TYPE:1/YES:END/NO:END/
-S15Q70:Do you chew soup?/TYPE:1/YES:END/NO:END/
-S15Q71:Do horses wear socks?/TYPE:1/YES:END/NO:END/
-S15Q72:Do plants wear glasses?/TYPE:1/YES:END/NO:END/
-S15Q73:Do cats climb trees?/TYPE:1/YES:END/NO:END/
-S15Q74:Do you throw things in the garbage that are broken?/TYPE:1/YES:END/NO:END/
-S15Q75:Do you use roller skates on the grass?/TYPE:1/YES:END/NO:END/
-S15Q76:Do football players use sticks?/TYPE:1/YES:END/NO:END/
-S15Q77:Do teachers help you learn?/TYPE:1/YES:END/NO:END/
-S15Q78:Do baby birds get fed by their mother?/TYPE:1/YES:END/NO:END/
-S15Q79:Does an orange have more juice than a banana?/TYPE:1/YES:END/NO:END/
-S15Q80:Do windows need to be cleaned?/TYPE:1/YES:END/NO:END/
-S15Q81:Do butterflies run fast?/TYPE:1/YES:END/NO:END/
-S15Q82:Do pilots fly paper planes?/TYPE:1/YES:END/NO:END/
-S15Q83:Does it snow during the summer?/TYPE:1/YES:END/NO:END/
-S15Q84:Do we need our hands to play a musical instrument?/TYPE:1/YES:END/NO:END/
-S15Q85:Do erasers remove pencil marks?/TYPE:1/YES:END/NO:END/
-S15Q86:Do fire extinguishers help fireman?/TYPE:1/YES:END/NO:END/
-S15Q87:Do children play with toys?/TYPE:1/YES:END/NO:END/
-S15Q88:Does yogurt go bad if it isn't refrigerated?/TYPE:1/YES:END/NO:END/
-S15Q89:Do we call a school if we have an emergency?/TYPE:1/YES:END/NO:END/
-S15Q90:Do computers help us find information?/TYPE:1/YES:END/NO:END/
-S15Q91:Do storms damage homes?/TYPE:1/YES:END/NO:END/
-S15Q92:Does your birthday always happen on the same day?/TYPE:1/YES:END/NO:END/
-S15Q93:Do astronauts work in grocery stores?/TYPE:1/YES:END/NO:END/
-S15Q94:Do elephants live in the ocean?/TYPE:1/YES:END/NO:END/
-S15Q95:Do cars have engines?/TYPE:1/YES:END/NO:END/
-S15Q96:If you were a horse; could you gallup?/TYPE:1/YES:END/NO:END/
-S15Q97:If you were a cat; would you have three legs?/TYPE:1/YES:END/NO:END/
-S15Q98:If you were a bee; could you sing?/TYPE:1/YES:END/NO:END/
-S15Q99:If you were a shark; would you eat fish?/TYPE:1/YES:END/NO:END/
-S15Q100:If you break an egg; can you fix it?/TYPE:1/YES:END/NO:END/
-S15Q101:If your bike has a flat tire; should you ride it?/TYPE:1/YES:END/NO:END/
-S15Q102:If you were a fish; could you jump?/TYPE:1/YES:END/NO:END/
-S15Q103:If you want to watch a movie; would you go to a bank?/TYPE:1/YES:END/NO:END/
-S15Q104:If you were a builder; would you use a hammer?/TYPE:1/YES:END/NO:END/
-S15Q105:If something is tasty; is it bad?/TYPE:1/YES:END/NO:END/
-S15Q106:If there is snow on the ground; is it summer?/TYPE:1/YES:END/NO:END/
-S15Q107:If you rip your shirt; would you staple it back together?/TYPE:1/YES:END/NO:END/
-S15Q108:If you were an owner; would you have a pet?/TYPE:1/YES:END/NO:END/
-S15Q109:If someone smiles; are they sad?/TYPE:1/YES:END/NO:END/
-S15Q110:If it is June; is it hot in the North Pole?/TYPE:1/YES:END/NO:END/
-S15Q111:If you have a bracelet; do you own jewelry?/TYPE:1/YES:END/NO:END/
-S15Q112:If you were a computer; would you be alive?/TYPE:1/YES:END/NO:END/
-S15Q113:If you were a bird; would you have fins?/TYPE:1/YES:END/NO:END/
-S15Q114:If you have boiling water; is it hot?/TYPE:1/YES:END/NO:END/
-S15Q115:If you went to a restaurant; would you see clowns?/TYPE:1/YES:END/NO:END/
-S15Q116:If something is light; would it sink?/TYPE:1/YES:END/NO:END/
-S15Q117:If you have a ball; can you play catch?/TYPE:1/YES:END/NO:END/
-S15Q118:If something smells; does it stink?/TYPE:1/YES:END/NO:END/
-S15Q119:If you were a caterpillar; would you have legs?/TYPE:1/YES:END/NO:END/
-S15Q120:If you were rotten; would you smell nice?/TYPE:1/YES:END/NO:END/
-S15Q121:If you have a pen and paper; can you write your name?/TYPE:1/YES:END/NO:END/
-S15Q122:If you cut yourself really bad; should you go to the dentist?/TYPE:1/YES:END/NO:END/
-S15Q123:If you were an ant; would you live in dirt?/TYPE:1/YES:END/NO:END/
-S15Q124:If you were a chair; could you swim?/TYPE:1/YES:END/NO:END/
-S15Q125:If you wanted to get warm; would you drink hot chocolate?/TYPE:1/YES:END/NO:END/
-S15Q126:Is your arm bigger than your thigh?/TYPE:1/YES:END/NO:END/
-S15Q127:Is twenty more than fifty?/TYPE:1/YES:END/NO:END/
-S15Q128:Is a father older than his son?/TYPE:1/YES:END/NO:END/
-S15Q129:Is half an apple less than one apple?/TYPE:1/YES:END/NO:END/
-S15Q130:Is a pair of shoes more than one shoe?/TYPE:1/YES:END/NO:END/
-S15Q131:Is a pair of socks less than three pairs?/TYPE:1/YES:END/NO:END/
-S15Q132:Is a day longer than a week?/TYPE:1/YES:END/NO:END/
-S15Q133:Is a month longer than an hour?/TYPE:1/YES:END/NO:END/
-S15Q134:Is a year longer than six months?/TYPE:1/YES:END/NO:END/
-S15Q135:Is thirty minutes shorter than one hour?/TYPE:1/YES:END/NO:END/
-S15Q136:Is five dollars more than one hundred?/TYPE:1/YES:END/NO:END/
-S15Q137:Is a mile longer than a football field?/TYPE:1/YES:END/NO:END/
-S15Q138:Is whole less than a half?/TYPE:1/YES:END/NO:END/
-S15Q139:Is one million a big number?/TYPE:1/YES:END/NO:END/
-S15Q140:Is a car bigger than a person?/TYPE:1/YES:END/NO:END/
-S15Q141:Is the moon hotter than the sun?/TYPE:1/YES:END/NO:END/
-S15Q142:Is a clown funnier than a doctor?/TYPE:1/YES:END/NO:END/
-S15Q143:Is 9:30 p.m. later than 3:30 p.m.?/TYPE:1/YES:END/NO:END/
-S15Q144:Is a gallon less than a cup?/TYPE:1/YES:END/NO:END/
-S15Q145:Is 50% higher than 48%?/TYPE:1/YES:END/NO:END/
-S15Q146:Is New York City small?/TYPE:1/YES:END/NO:END/
-S15Q147:Is a state bigger than a city?/TYPE:1/YES:END/NO:END/
-S15Q148:Is it a doctor's job to save people?/TYPE:1/YES:END/NO:END/
-S15Q149:Is building a house hard work?/TYPE:1/YES:END/NO:END/
-S15Q150:Is a cow bigger than an elephant?/TYPE:1/YES:END/NO:END/
-S15Q151:Is a hurricane dangerous?/TYPE:1/YES:END/NO:END/
-S15Q152:Is a screwdriver a tool?/TYPE:1/YES:END/NO:END/
-S15Q153:Is paper used to wash clothes?/TYPE:1/YES:END/NO:END/
-S15Q154:Is a car faster than a bicycle?/TYPE:1/YES:END/NO:END/
-S15Q155:Is a brick heavier than a feather?/TYPE:1/YES:END/NO:END/
+S15Q1:Are muscles needed to move our body?/TYPE:1/YES:END/NO:END/
+S15Q2:Are scoops of ice cream sweet?/TYPE:1/YES:END/NO:END/
+S15Q3:Are bananas and oranges sweet vegetables?/TYPE:1/YES:END/NO:END/
+S15Q4:Are dogs and cats animals that live in the jungle?/TYPE:1/YES:END/NO:END/
+S15Q5:Are roses tall trees?/TYPE:1/YES:END/NO:END/
+S15Q6:Are wild animals dangerous?/TYPE:1/YES:END/NO:END/
+S15Q7:Are coffee and hot chocolate cold drinks?/TYPE:1/YES:END/NO:END/
+S15Q8:Are computers used to brush your teeth with?/TYPE:1/YES:END/NO:END/
+S15Q9:Are fruits and vegetables healthy to eat?/TYPE:1/YES:END/NO:END/
+S15Q10:Are musicians and artists creative?/TYPE:1/YES:END/NO:END/
+S15Q11:Are Spanish and German different languages?/TYPE:1/YES:END/NO:END/
+S15Q12:Are cars used to drive on the water?/TYPE:1/YES:END/NO:END/
+S15Q13:Are rattlesnakes poisonous?/TYPE:1/YES:END/NO:END/
+S15Q14:Are band-aids used for healing?/TYPE:1/YES:END/NO:END/
+S15Q15:Are umbrellas used to keep you wet?/TYPE:1/YES:END/NO:END/
+S15Q16:Are the letters "d" and "s" in the word "dressing"?/TYPE:1/YES:END/NO:END/
+S15Q17:Are clocks and bikes used to tell time?/TYPE:1/YES:END/NO:END/
+S15Q18:Are violins and pianos musical instruments?/TYPE:1/YES:END/NO:END/
+S15Q19:Are paint and syrup used to take a bath in?/TYPE:1/YES:END/NO:END/
+S15Q20:Are aspirin and tylenol pain relievers?/TYPE:1/YES:END/NO:END/
+S15Q21:Are airplanes flown inside?/TYPE:1/YES:END/NO:END/
+S15Q22:Are pillows and mattresses used to sleep on?/TYPE:1/YES:END/NO:END/
+S15Q23:Are shoes worn over the top of socks?/TYPE:1/YES:END/NO:END/
+S15Q24:Are football and baseball types of food?/TYPE:1/YES:END/NO:END/
+S15Q25:Are chips and pretzels salty?/TYPE:1/YES:END/NO:END/
+S15Q26:Are houses more than $50 dollars?/TYPE:1/YES:END/NO:END/
+S15Q27:Are lasagna and spaghetti Chinese dishes?/TYPE:1/YES:END/NO:END/
+S15Q28:Are ovens used to freeze things?/TYPE:1/YES:END/NO:END/
+S15Q29:Are there 80 minutes in an hour?/TYPE:1/YES:END/NO:END/
+S15Q30:Can pigs walk on two feet?/TYPE:1/YES:END/NO:END/
+S15Q31:Can you brush your teeth with a shoe?/TYPE:1/YES:END/NO:END/
+S15Q32:Can you stretch a rock?/TYPE:1/YES:END/NO:END/
+S15Q33:Can you grow a mustache on your foot?/TYPE:1/YES:END/NO:END/
+S15Q34:Can a backpack get a cold?/TYPE:1/YES:END/NO:END/
+S15Q35:Can you stir something with a spoon?/TYPE:1/YES:END/NO:END/
+S15Q36:Can you eat tomato soup with a fork?/TYPE:1/YES:END/NO:END/
+S15Q37:Can you buy eggs by the dozen?/TYPE:1/YES:END/NO:END/
+S15Q38:Can you teach a cat to talk?/TYPE:1/YES:END/NO:END/
+S15Q39:Can you rake leaves with a hammer?/TYPE:1/YES:END/NO:END/
+S15Q40:Can you use a shovel at the beach?/TYPE:1/YES:END/NO:END/
+S15Q41:Can you eat without a mouth?/TYPE:1/YES:END/NO:END/
+S15Q42:Can a circle have corners?/TYPE:1/YES:END/NO:END/
+S15Q43:Can a fish live out of water?/TYPE:1/YES:END/NO:END/
+S15Q44:Can you rip concrete?/TYPE:1/YES:END/NO:END/
+S15Q45:Can you wear a tie?/TYPE:1/YES:END/NO:END/
+S15Q46:Can you make bread without using flour?/TYPE:1/YES:END/NO:END/
+S15Q47:Can you freeze orange juice?/TYPE:1/YES:END/NO:END/
+S15Q48:Do new clothes get dirty?/TYPE:1/YES:END/NO:END/
+S15Q49:Do babies need their diapers changed?/TYPE:1/YES:END/NO:END/
+S15Q50:Do you get wet when you go swimming?/TYPE:1/YES:END/NO:END/
+S15Q51:Does the sun make things hot?/TYPE:1/YES:END/NO:END/
+S15Q52:Do you chew soup?/TYPE:1/YES:END/NO:END/
+S15Q53:Do horses wear socks?/TYPE:1/YES:END/NO:END/
+S15Q54:Do plants wear glasses?/TYPE:1/YES:END/NO:END/
+S15Q55:Do you use roller skates on the grass?/TYPE:1/YES:END/NO:END/
+S15Q56:Do football players use sticks?/TYPE:1/YES:END/NO:END/
+S15Q57:Do teachers help you learn?/TYPE:1/YES:END/NO:END/
+S15Q58:Do baby birds get fed by their mother?/TYPE:1/YES:END/NO:END/
+S15Q59:Does an orange have more juice than a banana?/TYPE:1/YES:END/NO:END/
+S15Q60:Do windows need to be cleaned?/TYPE:1/YES:END/NO:END/
+S15Q61:Do butterflies run fast?/TYPE:1/YES:END/NO:END/
+S15Q62:Do pilots fly paper planes?/TYPE:1/YES:END/NO:END/
+S15Q63:Does it snow during the summer?/TYPE:1/YES:END/NO:END/
+S15Q64:Do we need our hands to play a musical instrument?/TYPE:1/YES:END/NO:END/
+S15Q65:Do erasers remove pencil marks?/TYPE:1/YES:END/NO:END/
+S15Q66:Do fire extinguishers help fireman?/TYPE:1/YES:END/NO:END/
+S15Q67:Do children play with toys?/TYPE:1/YES:END/NO:END/
+S15Q68:Does yogurt go bad if it isn't refrigerated?/TYPE:1/YES:END/NO:END/
+S15Q69:Do computers help us find information?/TYPE:1/YES:END/NO:END/
+S15Q70:Do astronauts work in grocery stores?/TYPE:1/YES:END/NO:END/
+S15Q71:Do elephants live in the ocean?/TYPE:1/YES:END/NO:END/
+S15Q72:Do cars have engines?/TYPE:1/YES:END/NO:END/
+S15Q73:If you were a horse; could you gallup?/TYPE:1/YES:END/NO:END/
+S15Q74:If you were a cat; would you have three legs?/TYPE:1/YES:END/NO:END/
+S15Q75:If you were a bee; could you sing?/TYPE:1/YES:END/NO:END/
+S15Q76:If you were a shark; would you eat fish?/TYPE:1/YES:END/NO:END/
+S15Q77:If your bike has a flat tire; should you ride it?/TYPE:1/YES:END/NO:END/
+S15Q78:If you want to watch a movie; would you go to a bank?/TYPE:1/YES:END/NO:END/
+S15Q79:If you were a builder; would you use a hammer?/TYPE:1/YES:END/NO:END/
+S15Q80:If there is snow on the ground; is it summer?/TYPE:1/YES:END/NO:END/
+S15Q81:If you rip your shirt; would you staple it back together?/TYPE:1/YES:END/NO:END/
+S15Q82:If someone smiles; are they sad?/TYPE:1/YES:END/NO:END/
+S15Q83:If you have a bracelet; do you own jewelry?/TYPE:1/YES:END/NO:END/
+S15Q84:If you were a computer; would you be alive?/TYPE:1/YES:END/NO:END/
+S15Q85:If you were a bird; would you have fins?/TYPE:1/YES:END/NO:END/
+S15Q86:If you have boiling water; is it hot?/TYPE:1/YES:END/NO:END/
+S15Q87:If you went to a restaurant; would you see clowns?/TYPE:1/YES:END/NO:END/
+S15Q88:If something smells; does it stink?/TYPE:1/YES:END/NO:END/
+S15Q89:If you were a caterpillar; would you have legs?/TYPE:1/YES:END/NO:END/
+S15Q90:If you were rotten; would you smell nice?/TYPE:1/YES:END/NO:END/
+S15Q91:If you have a pen and paper; can you write your name?/TYPE:1/YES:END/NO:END/
+S15Q92:If you were an ant; would you live in dirt?/TYPE:1/YES:END/NO:END/
+S15Q93:If you were a chair; could you swim?/TYPE:1/YES:END/NO:END/
+S15Q94:Is your arm bigger than your thigh?/TYPE:1/YES:END/NO:END/
+S15Q95:Is twenty more than fifty?/TYPE:1/YES:END/NO:END/
+S15Q96:Is a father older than his son?/TYPE:1/YES:END/NO:END/
+S15Q97:Is half an apple less than one apple?/TYPE:1/YES:END/NO:END/
+S15Q98:Is a pair of shoes more than one shoe?/TYPE:1/YES:END/NO:END/
+S15Q99:Is a pair of socks less than three pairs?/TYPE:1/YES:END/NO:END/
+S15Q100:Is a day longer than a week?/TYPE:1/YES:END/NO:END/
+S15Q101:Is a month longer than an hour?/TYPE:1/YES:END/NO:END/
+S15Q102:Is a year longer than six months?/TYPE:1/YES:END/NO:END/
+S15Q103:Is thirty minutes shorter than one hour?/TYPE:1/YES:END/NO:END/
+S15Q104:Is five dollars more than one hundred?/TYPE:1/YES:END/NO:END/
+S15Q105:Is a mile longer than a football field?/TYPE:1/YES:END/NO:END/
+S15Q106:Is a car bigger than a person?/TYPE:1/YES:END/NO:END/
+S15Q107:Is the moon hotter than the sun?/TYPE:1/YES:END/NO:END/
+S15Q108:Is a clown funnier than a doctor?/TYPE:1/YES:END/NO:END/
+S15Q109:Is 9:30 p.m. later than 3:30 p.m.?/TYPE:1/YES:END/NO:END/
+S15Q110:Is a gallon less than a cup?/TYPE:1/YES:END/NO:END/
+S15Q111:Is 50% higher than 48%?/TYPE:1/YES:END/NO:END/
+S15Q112:Is New York City small?/TYPE:1/YES:END/NO:END/
+S15Q113:Is a state bigger than a city?/TYPE:1/YES:END/NO:END/
+S15Q114:Is building a house hard work?/TYPE:1/YES:END/NO:END/
+S15Q115:Is a cow bigger than an elephant?/TYPE:1/YES:END/NO:END/
+S15Q116:Is a hurricane dangerous?/TYPE:1/YES:END/NO:END/
+S15Q117:Is a screwdriver a tool?/TYPE:1/YES:END/NO:END/
+S15Q118:Is paper used to wash clothes?/TYPE:1/YES:END/NO:END/
+S15Q119:Is a car faster than a bicycle?/TYPE:1/YES:END/NO:END/
+S15Q120:Is a brick heavier than a feather?/TYPE:1/YES:END/NO:END/
