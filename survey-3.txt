@@ -1,0 +1,8 @@
+null/YYYY-MM-DD (start date)/
+0830/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
+14/days (length of survey)/
+0/occurances per day (windows)/
+1657724406/created date/
+10/hours survey length in hours per day/
+o/survey type: follow-up, coninues, random, once/
+S3Q1:I can manage my sleep issues using skills that I have learned./TYPE:1/YES:END/NO:END/
