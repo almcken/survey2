@@ -2,9 +2,9 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1651161875/created date/
+1659474212/created date/
 10/hours survey length in hours per day/
 f/survey type: follow-up, coninues, random, once/
 S8Q1:I am in pain right now./TYPE:1/YES:S8Q2/NO:END/
-S8Q2:My pain is? 1 (minimal) to 10 (worst possible pain)/TYPE:0/1:S8Q3/2:S8Q3/3:S8Q3/4:S8Q3/5:S8Q3/6:S8Q3/7:S8Q3/8:S8Q3/9:S8Q3/10:S8Q3/
+S8Q2:My pain is... 1 (minimal) to 10 (worst possible pain)/TYPE:0/1:S8Q3/2:S8Q3/3:S8Q3/4:S8Q3/5:S8Q3/6:S8Q3/7:S8Q3/8:S8Q3/9:S8Q3/10:S8Q3/
 S8Q3:Pain is interfering with my activities?/TYPE:1/YES:END/NO:END/
