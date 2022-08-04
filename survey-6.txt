@@ -1,0 +1,127 @@
+null/ YYYY-MM-DD (start date)
+0800/ start time of day in 2-digit hour format (HH) 0 - 23
+2/ days (length of survey)
+20/ occurances per day (windows)
+1651073898/created date
+10/ hours survey length in hours per day
+r/ survey type: follow-up, coninues, random, once
+S6Q1:Are muscles needed to move our body?/TYPE:1/YES:END/NO:END/
+S6Q2:Are scoops of ice cream sweet?/TYPE:1/YES:END/NO:END/
+S6Q3:Are bananas and oranges sweet vegetables?/TYPE:1/YES:END/NO:END/
+S6Q4:Are dogs and cats animals that live in the jungle?/TYPE:1/YES:END/NO:END/
+S6Q5:Are roses tall trees?/TYPE:1/YES:END/NO:END/
+S6Q6:Are wild animals dangerous?/TYPE:1/YES:END/NO:END/
+S6Q7:Are coffee and hot chocolate cold drinks?/TYPE:1/YES:END/NO:END/
+S6Q8:Are computers used to brush your teeth with?/TYPE:1/YES:END/NO:END/
+S6Q9:Are fruits and vegetables healthy to eat?/TYPE:1/YES:END/NO:END/
+S6Q10:Are musicians and artists creative?/TYPE:1/YES:END/NO:END/
+S6Q11:Are Spanish and German different languages?/TYPE:1/YES:END/NO:END/
+S6Q12:Are cars used to drive on the water?/TYPE:1/YES:END/NO:END/
+S6Q13:Are rattlesnakes poisonous?/TYPE:1/YES:END/NO:END/
+S6Q14:Are band-aids used for healing?/TYPE:1/YES:END/NO:END/
+S6Q15:Are umbrellas used to keep you wet?/TYPE:1/YES:END/NO:END/
+S6Q16:Are the letters "d" and "s" in the word "dressing"?/TYPE:1/YES:END/NO:END/
+S6Q17:Are clocks and bikes used to tell time?/TYPE:1/YES:END/NO:END/
+S6Q18:Are violins and pianos musical instruments?/TYPE:1/YES:END/NO:END/
+S6Q19:Are paint and syrup used to take a bath in?/TYPE:1/YES:END/NO:END/
+S6Q20:Are aspirin and tylenol pain relievers?/TYPE:1/YES:END/NO:END/
+S6Q21:Are airplanes flown inside?/TYPE:1/YES:END/NO:END/
+S6Q22:Are pillows and mattresses used to sleep on?/TYPE:1/YES:END/NO:END/
+S6Q23:Are shoes worn over the top of socks?/TYPE:1/YES:END/NO:END/
+S6Q24:Are football and baseball types of food?/TYPE:1/YES:END/NO:END/
+S6Q25:Are chips and pretzels salty?/TYPE:1/YES:END/NO:END/
+S6Q26:Are houses more than $50 dollars?/TYPE:1/YES:END/NO:END/
+S6Q27:Are lasagna and spaghetti Chinese dishes?/TYPE:1/YES:END/NO:END/
+S6Q28:Are ovens used to freeze things?/TYPE:1/YES:END/NO:END/
+S6Q29:Are there 80 minutes in an hour?/TYPE:1/YES:END/NO:END/
+S6Q30:Can pigs walk on two feet?/TYPE:1/YES:END/NO:END/
+S6Q31:Can you brush your teeth with a shoe?/TYPE:1/YES:END/NO:END/
+S6Q32:Can you stretch a rock?/TYPE:1/YES:END/NO:END/
+S6Q33:Can you grow a mustache on your foot?/TYPE:1/YES:END/NO:END/
+S6Q34:Can a backpack get a cold?/TYPE:1/YES:END/NO:END/
+S6Q35:Can you stir something with a spoon?/TYPE:1/YES:END/NO:END/
+S6Q36:Can you eat tomato soup with a fork?/TYPE:1/YES:END/NO:END/
+S6Q37:Can you buy eggs by the dozen?/TYPE:1/YES:END/NO:END/
+S6Q38:Can you teach a cat to talk?/TYPE:1/YES:END/NO:END/
+S6Q39:Can you rake leaves with a hammer?/TYPE:1/YES:END/NO:END/
+S6Q40:Can you use a shovel at the beach?/TYPE:1/YES:END/NO:END/
+S6Q41:Can you eat without a mouth?/TYPE:1/YES:END/NO:END/
+S6Q42:Can a circle have corners?/TYPE:1/YES:END/NO:END/
+S6Q43:Can a fish live out of water?/TYPE:1/YES:END/NO:END/
+S6Q44:Can you rip concrete?/TYPE:1/YES:END/NO:END/
+S6Q45:Can you wear a tie?/TYPE:1/YES:END/NO:END/
+S6Q46:Can you make bread without using flour?/TYPE:1/YES:END/NO:END/
+S6Q47:Can you freeze orange juice?/TYPE:1/YES:END/NO:END/
+S6Q48:Do new clothes get dirty?/TYPE:1/YES:END/NO:END/
+S6Q49:Do babies need their diapers changed?/TYPE:1/YES:END/NO:END/
+S6Q50:Do you get wet when you go swimming?/TYPE:1/YES:END/NO:END/
+S6Q51:Does the sun make things hot?/TYPE:1/YES:END/NO:END/
+S6Q52:Do you chew soup?/TYPE:1/YES:END/NO:END/
+S6Q53:Do horses wear socks?/TYPE:1/YES:END/NO:END/
+S6Q54:Do plants wear glasses?/TYPE:1/YES:END/NO:END/
+S6Q55:Do you use roller skates on the grass?/TYPE:1/YES:END/NO:END/
+S6Q56:Do football players use sticks?/TYPE:1/YES:END/NO:END/
+S6Q57:Do teachers help you learn?/TYPE:1/YES:END/NO:END/
+S6Q58:Do baby birds get fed by their mother?/TYPE:1/YES:END/NO:END/
+S6Q59:Does an orange have more juice than a banana?/TYPE:1/YES:END/NO:END/
+S6Q60:Do windows need to be cleaned?/TYPE:1/YES:END/NO:END/
+S6Q61:Do butterflies run fast?/TYPE:1/YES:END/NO:END/
+S6Q62:Do pilots fly paper planes?/TYPE:1/YES:END/NO:END/
+S6Q63:Does it snow during the summer?/TYPE:1/YES:END/NO:END/
+S6Q64:Do we need our hands to play a musical instrument?/TYPE:1/YES:END/NO:END/
+S6Q65:Do erasers remove pencil marks?/TYPE:1/YES:END/NO:END/
+S6Q66:Do fire extinguishers help fireman?/TYPE:1/YES:END/NO:END/
+S6Q67:Do children play with toys?/TYPE:1/YES:END/NO:END/
+S6Q68:Does yogurt go bad if it isn't refrigerated?/TYPE:1/YES:END/NO:END/
+S6Q69:Do computers help us find information?/TYPE:1/YES:END/NO:END/
+S6Q70:Do astronauts work in grocery stores?/TYPE:1/YES:END/NO:END/
+S6Q71:Do elephants live in the ocean?/TYPE:1/YES:END/NO:END/
+S6Q72:Do cars have engines?/TYPE:1/YES:END/NO:END/
+S6Q73:If you were a horse; could you gallup?/TYPE:1/YES:END/NO:END/
+S6Q74:If you were a cat; would you have three legs?/TYPE:1/YES:END/NO:END/
+S6Q75:If you were a bee; could you sing?/TYPE:1/YES:END/NO:END/
+S6Q76:If you were a shark; would you eat fish?/TYPE:1/YES:END/NO:END/
+S6Q77:If your bike has a flat tire; should you ride it?/TYPE:1/YES:END/NO:END/
+S6Q78:If you want to watch a movie; would you go to a bank?/TYPE:1/YES:END/NO:END/
+S6Q79:If you were a builder; would you use a hammer?/TYPE:1/YES:END/NO:END/
+S6Q80:If there is snow on the ground; is it summer?/TYPE:1/YES:END/NO:END/
+S6Q81:If you rip your shirt; would you staple it back together?/TYPE:1/YES:END/NO:END/
+S6Q82:If someone smiles; are they sad?/TYPE:1/YES:END/NO:END/
+S6Q83:If you have a bracelet; do you own jewelry?/TYPE:1/YES:END/NO:END/
+S6Q84:If you were a computer; would you be alive?/TYPE:1/YES:END/NO:END/
+S6Q85:If you were a bird; would you have fins?/TYPE:1/YES:END/NO:END/
+S6Q86:If you have boiling water; is it hot?/TYPE:1/YES:END/NO:END/
+S6Q87:If you went to a restaurant; would you see clowns?/TYPE:1/YES:END/NO:END/
+S6Q88:If something smells; does it stink?/TYPE:1/YES:END/NO:END/
+S6Q89:If you were a caterpillar; would you have legs?/TYPE:1/YES:END/NO:END/
+S6Q90:If you were rotten; would you smell nice?/TYPE:1/YES:END/NO:END/
+S6Q91:If you have a pen and paper; can you write your name?/TYPE:1/YES:END/NO:END/
+S6Q92:If you were an ant; would you live in dirt?/TYPE:1/YES:END/NO:END/
+S6Q93:If you were a chair; could you swim?/TYPE:1/YES:END/NO:END/
+S6Q94:Is your arm bigger than your thigh?/TYPE:1/YES:END/NO:END/
+S6Q95:Is twenty more than fifty?/TYPE:1/YES:END/NO:END/
+S6Q96:Is a father older than his son?/TYPE:1/YES:END/NO:END/
+S6Q97:Is half an apple less than one apple?/TYPE:1/YES:END/NO:END/
+S6Q98:Is a pair of shoes more than one shoe?/TYPE:1/YES:END/NO:END/
+S6Q99:Is a pair of socks less than three pairs?/TYPE:1/YES:END/NO:END/
+S6Q100:Is a day longer than a week?/TYPE:1/YES:END/NO:END/
+S6Q101:Is a month longer than an hour?/TYPE:1/YES:END/NO:END/
+S6Q102:Is a year longer than six months?/TYPE:1/YES:END/NO:END/
+S6Q103:Is thirty minutes shorter than one hour?/TYPE:1/YES:END/NO:END/
+S6Q104:Is five dollars more than one hundred?/TYPE:1/YES:END/NO:END/
+S6Q105:Is a mile longer than a football field?/TYPE:1/YES:END/NO:END/
+S6Q106:Is a car bigger than a person?/TYPE:1/YES:END/NO:END/
+S6Q107:Is the moon hotter than the sun?/TYPE:1/YES:END/NO:END/
+S6Q108:Is a clown funnier than a doctor?/TYPE:1/YES:END/NO:END/
+S6Q109:Is 9:30 p.m. later than 3:30 p.m.?/TYPE:1/YES:END/NO:END/
+S6Q110:Is a gallon less than a cup?/TYPE:1/YES:END/NO:END/
+S6Q111:Is 50% higher than 48%?/TYPE:1/YES:END/NO:END/
+S6Q112:Is New York City small?/TYPE:1/YES:END/NO:END/
+S6Q113:Is a state bigger than a city?/TYPE:1/YES:END/NO:END/
+S6Q114:Is building a house hard work?/TYPE:1/YES:END/NO:END/
+S6Q115:Is a cow bigger than an elephant?/TYPE:1/YES:END/NO:END/
+S6Q116:Is a hurricane dangerous?/TYPE:1/YES:END/NO:END/
+S6Q117:Is a screwdriver a tool?/TYPE:1/YES:END/NO:END/
+S6Q118:Is paper used to wash clothes?/TYPE:1/YES:END/NO:END/
+S6Q119:Is a car faster than a bicycle?/TYPE:1/YES:END/NO:END/
+S6Q120:Is a brick heavier than a feather?/TYPE:1/YES:END/NO:END/
