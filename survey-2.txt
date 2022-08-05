@@ -113,7 +113,7 @@ S2Q105:Is a mile longer than a football field?/TYPE:1/YES:END/NO:END/
 S2Q106:Is a car bigger than a person?/TYPE:1/YES:END/NO:END/
 S2Q107:Is the moon hotter than the sun?/TYPE:1/YES:END/NO:END/
 S2Q108:Is a clown funnier than a doctor?/TYPE:1/YES:END/NO:END/
-S2Q109:Is 9:30 p.m. later than 3:30 p.m.?/TYPE:1/YES:END/NO:END/
+S2Q109:Is 930 p.m. later than 330 p.m.?/TYPE:1/YES:END/NO:END/
 S2Q110:Is a gallon less than a cup?/TYPE:1/YES:END/NO:END/
 S2Q111:Is 50% higher than 48%?/TYPE:1/YES:END/NO:END/
 S2Q112:Is New York City small?/TYPE:1/YES:END/NO:END/
