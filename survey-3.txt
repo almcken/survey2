@@ -2,7 +2,7 @@ null/YYYY-MM-DD (start date)/
 0830/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 0/occurances per day (windows)/
-1659474498/created date/
+1660923336/created date/
 10/hours survey length in hours per day/
 o/survey type: follow-up, coninues, random, once/
-S3Q1:I can manage my sleep using skills that I have learned.  1 (not confident) to 10 (very confident)/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/10:END/
+S3Q1:I can manage my cognitive performance using skills that I have learned.  1 (not confident) to 10 (very confident)/TYPE:0/1:END/2:END/3:END/4:END/5:END/6:END/7:END/8:END/9:END/10:END/
