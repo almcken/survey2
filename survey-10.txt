@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1661783452/created date/
+1663801466/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S10Q1:I am preparing my schedule for tomorrow. /TYPE:1/Yes:END/No:END/
-S10Q2:I am shifting my attention when needed. /TYPE:1/Yes:END/No:END/
+S10Q1:I am recalling daily obligations./TYPE:1/Yes:END/No:END/
+S10Q2:I am having trouble thinking of words I want to say./TYPE:1/Yes:END/No:END/
