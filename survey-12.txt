@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1670451042/created date/
+1673566575/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S12Q1:I am taking time to think about my priorities./TYPE:1/Yes:END/No:END/
-S12Q2:I am thinking about what I'm going to say before speaking. /TYPE:1/Yes:END/No:END/
+S12Q1:I am shifting my attention when needed.  /TYPE:1/Yes:END/No:END/
+S12Q2:I am thinking through my actions before I do them. /TYPE:1/Yes:END/No:END/
