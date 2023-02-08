@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1673566647/created date/
+1675696470/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S13Q1:I am taking breaks when needed. /TYPE:1/Yes:END/No:END/
-S13Q2:I am adjusting when tasks become more challenging. /TYPE:1/Yes:END/No:END/
+S13Q1:I am adapting to unexpected changes in my schedule./TYPE:1/Yes:END/No:END/
+S13Q2:I am interacting with others. /TYPE:1/Yes:END/No:END/
