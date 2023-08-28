@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1690556500/created date/
+1693242168/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S12Q1:I am writing information in one place. /TYPE:1/Yes:END/No:END/
-S12Q2:I am reviewing information I want to recall.  /TYPE:1/Yes:END/No:END/
+S12Q1:I am reviewing information I want to recall./TYPE:1/Yes:END/No:END/
+S12Q2:I am focusing on one things at a time. /TYPE:1/Yes:END/No:END/
