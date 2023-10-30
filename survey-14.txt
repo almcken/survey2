@@ -5,5 +5,5 @@ null/YYYY-MM-DD (start date)/
 1697034945/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S14Q1:I am feeling overwhelmed with tasks/duties. /TYPE:1/Yes:END/No:END/
+S14Q1:I am feeling overwhelmed with tasks and duties. /TYPE:1/Yes:END/No:END/
 S14Q2:I am thinking about the goal of my tasks. /TYPE:1/Yes:END/No:END/
