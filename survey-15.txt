@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1697035066/created date/
+1706125192/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S15Q1:I am recalling directives from others. /TYPE:1/Yes:END/No:END/
-S15Q2:I am feeling distracted. /TYPE:1/Yes:END/No:END/
+S15Q1:I am thinking about how to recall information. /TYPE:1/Yes:END/No:END/
+S15Q2:I am thinking about what I need to be attending to. /TYPE:1/Yes:END/No:END/
