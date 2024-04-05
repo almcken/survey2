@@ -2,8 +2,8 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1707148262/created date/
+1712342592/created date/
 10/hours survey length in hours per day/
 c/survey type: follow-up, coninues, random, once/
-S10Q1:I am blocking out distractions to stay focused./TYPE:1/Yes:END/No:END/
-S10Q2:I am thinking about how to recall information./TYPE:1/Yes:END/No:END/
+S10Q1:I am adjusting when tasks become more challenging.  /TYPE:1/Yes:END/No:END/
+S10Q2:I am managing my time. /TYPE:1/Yes:END/No:END/
