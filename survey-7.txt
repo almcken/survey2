@@ -1,10 +1,10 @@
 null/YYYY-MM-DD (start date)/
-0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
+1030/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
-4/occurances per day (windows)/
-1659475052/created date/
+3/occurances per day (windows)/
+1744670436/created date/
 10/hours survey length in hours per day/
 f/survey type: follow-up, coninues, random, once/
 S7Q1:I feel fatigued right now/TYPE:1/YES:S7Q2/NO:END/
-S7Q2:My fatigue is... 1(minimal) to 10 (worst possible fatigue)/TYPE:0/1:S7Q3/2:S7Q3/3:S7Q3/4:S7Q3/5:S7Q3/6:S7Q3/7:S7Q3/8:S7Q3/9:S7Q3/10:S7Q3/
+S7Q2:My fatigue is... 1(minimal) to 4 (severe fatigue)/TYPE:1/1:END/2:END/3:END/4:END/
 S7Q3:Fatigue is interfering with my activities?/TYPE:1/YES:END/NO:END/
