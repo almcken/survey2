@@ -2,9 +2,9 @@ null/YYYY-MM-DD (start date)/
 0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
 4/occurances per day (windows)/
-1659474705/created date/
+1744670040/created date/
 10/hours survey length in hours per day/
 f/survey type: follow-up, coninues, random, once/
 S4Q1:I have a headache right now./TYPE:1/YES:S4Q2/NO:END/
-S4Q2:My headache is...1 (mild) to 10 (very severe)/TYPE:0/1:S4Q3/2:S4Q3/3:S4Q3/4:S4Q3/5:S4Q3/6:S4Q3/7:S4Q3/8:S4Q3/9:S4Q3/10:S4Q3/
+S4Q2:My headache is...1 (mild) to 4 (severe)/TYPE:1/1:S4Q3/2:S4Q3/3:S4Q3/4:S4Q3/
 S4Q3:Headache is interfering with my activities?/TYPE:1/YES:END/NO:END/
