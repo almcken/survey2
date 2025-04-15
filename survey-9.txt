@@ -1,10 +1,10 @@
 null/YYYY-MM-DD (start date)/
-0800/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
+1030/start time of day in 4-digit hour format (HHmm) 0000 - 2300/
 14/days (length of survey)/
-4/occurances per day (windows)/
-1659474317/created date/
+3/occurances per day (windows)/
+1744670949/created date/
 10/hours survey length in hours per day/
 f/survey type: follow-up, coninues, random, once/
-S9Q1:I am in pain right now./TYPE:1/YES:S9Q2/NO:END/
-S9Q2:My pain is... green (minimal) to red (worst possible pain)/TYPE:2/1:S9Q3/2:S9Q3/3:S9Q3/4:S9Q3/5:S9Q3/6:S9Q3/7:S9Q3/8:S9Q3/9:S9Q3/10:S9Q3/
-S9Q3:Pain is interfering with my activities?/TYPE:1/YES:END/NO:END/
+S9Q1:It is hard to concentrate right now./TYPE:1/YES:S9Q2/NO:END/
+S9Q2:My difficulty concentrating is... 1 (minimal) to 4 (worst possible pain)/TYPE:1/1:S9Q3/2:S9Q3/3:S9Q3/4:S9Q3/
+S9Q3:Difficulty concnetrating is interfering with my activities?/TYPE:1/YES:END/NO:END/
